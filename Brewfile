@@ -70,3 +70,11 @@ cask 'viscosity'
 # Database GUI
 cask 'postico'
 cask 'querious'
+
+# Mac App Store apps
+mas 'Annotate', id: 918207447
+mas 'DaisyDisk', id: 411643860
+mas 'Dash', id: 449589707
+mas 'Gemini', id: 463541543
+mas 'Media Inspector', id: 419975242
+mas 'Parcel', id: 639968404
