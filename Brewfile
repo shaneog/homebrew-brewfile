@@ -67,6 +67,9 @@ cask 'sourcetree'
 cask 'textexpander'
 cask 'viscosity'
 
+# Databases
+cask 'postgres'
+
 # Database GUI
 cask 'postico'
 cask 'querious'
