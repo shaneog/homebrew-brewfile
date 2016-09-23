@@ -56,7 +56,6 @@ cask 'carbon-copy-cloner'
 cask 'dropbox'
 cask 'expandrive'
 cask 'google-drive'
-cask 'gpgtools'
 cask 'hazel'
 cask 'istat-menus'
 cask 'keepingyouawake'
@@ -65,7 +64,6 @@ cask 'kindle'
 cask 'moom'
 cask 'sourcetree'
 cask 'textexpander'
-cask 'viscosity'
 
 # Databases
 cask 'postgres'
@@ -73,6 +71,12 @@ cask 'postgres'
 # Database GUI
 cask 'postico'
 cask 'querious'
+
+# Security
+cask 'cloak'
+cask 'gpgtools'
+cask 'keybase'
+cask 'viscosity'
 
 # Mac App Store apps
 mas 'Annotate', id: 918207447
