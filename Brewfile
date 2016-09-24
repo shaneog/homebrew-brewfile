@@ -1,3 +1,5 @@
+tap 'caskroom/fonts'
+
 # System
 brew 'n'
 brew 'ruby-install'
@@ -77,6 +79,9 @@ cask 'cloak'
 cask 'gpgtools'
 cask 'keybase'
 cask 'viscosity'
+
+# Fonts
+cask 'font-menlo-for-powerline'
 
 # Mac App Store apps
 mas 'Annotate', id: 918207447
