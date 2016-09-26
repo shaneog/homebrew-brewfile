@@ -64,6 +64,7 @@ cask 'istat-menus'
 cask 'keepingyouawake'
 # cask 'karabiner-elements' # Placeholder
 cask 'kindle'
+cask 'microsoft-office'
 cask 'sourcetree'
 cask 'spectacle'
 cask 'textexpander'
