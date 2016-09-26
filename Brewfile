@@ -15,7 +15,6 @@ brew 'zsh-completions'
 # Terminal Tools
 brew 'tmux'
 brew 'reattach-to-user-namespace'
-brew 'fzf'
 brew 'the_silver_searcher'
 
 # CLI apps
