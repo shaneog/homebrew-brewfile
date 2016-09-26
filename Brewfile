@@ -79,7 +79,7 @@ cask 'querious'
 # Security
 cask 'cloak'
 cask 'gpgtools'
-cask 'keybase'
+brew 'keybase'
 cask 'viscosity'
 
 # Fonts
