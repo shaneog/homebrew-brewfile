@@ -64,8 +64,8 @@ cask 'istat-menus'
 cask 'keepingyouawake'
 # cask 'karabiner-elements' # Placeholder
 cask 'kindle'
-cask 'moom'
 cask 'sourcetree'
+cask 'spectacle'
 cask 'textexpander'
 
 # Databases
@@ -91,3 +91,4 @@ mas 'Dash', id: 449589707
 mas 'Gemini', id: 463541543
 mas 'Media Inspector', id: 419975242
 mas 'Parcel', id: 639968404
+mas 'Microsoft Remote Desktop', id: 715768417
