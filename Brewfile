@@ -84,6 +84,7 @@ cask 'viscosity'
 
 # Fonts
 cask 'font-menlo-for-powerline'
+cask 'font-sauce-code-powerline'
 
 # Mac App Store apps
 mas 'Annotate', id: 918207447
