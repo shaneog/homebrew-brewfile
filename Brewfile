@@ -35,6 +35,7 @@ cask 'slack'
 # Editors & IDEs
 brew 'vim'
 cask 'sublime-text'
+cask 'visual-studio-code'
 
 # Music
 cask 'spotify'
