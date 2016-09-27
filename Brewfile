@@ -4,6 +4,7 @@ tap 'caskroom/fonts'
 brew 'n'
 brew 'ruby-install'
 brew 'chruby'
+brew 'golang'
 
 # Docker
 cask 'docker'
