@@ -1,4 +1,5 @@
 tap 'caskroom/fonts'
+tap 'neovim/neovim'
 
 # System
 brew 'n'
@@ -34,6 +35,7 @@ cask 'skype'
 cask 'slack'
 
 # Editors & IDEs
+brew 'neovim'
 brew 'vim'
 cask 'sublime-text'
 cask 'visual-studio-code'
