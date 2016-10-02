@@ -29,6 +29,7 @@ brew 'curl'
 brew 'wget'
 brew 'shellcheck'
 brew 'mas' # CLI for Mac App Store
+brew 'mackup'
 
 # Communication
 cask 'skype'
@@ -84,6 +85,10 @@ cask 'cloak'
 cask 'gpgtools'
 brew 'keybase'
 cask 'viscosity'
+
+# Java
+brew 'jenv'
+cask 'java'
 
 # Fonts
 cask 'font-menlo-for-powerline'
