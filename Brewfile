@@ -65,13 +65,14 @@ cask 'flux'
 cask 'google-drive'
 cask 'hazel'
 cask 'istat-menus'
-cask 'keepingyouawake'
 # cask 'karabiner-elements' # Placeholder
+cask 'keepingyouawake'
 cask 'kindle'
 cask 'microsoft-office'
 cask 'sourcetree'
 cask 'spectacle'
 cask 'transmit'
+cask 'vlc'
 
 # Databases
 cask 'postgres'
