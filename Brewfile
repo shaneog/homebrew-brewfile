@@ -72,6 +72,7 @@ cask 'microsoft-office'
 cask 'sourcetree'
 cask 'spectacle'
 cask 'textexpander'
+cask 'transmit'
 
 # Databases
 cask 'postgres'
